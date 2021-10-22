@@ -1,0 +1,3 @@
+[submodule "jsonresume-theme-caffeine"]
+	path = jsonresume-theme-caffeine
+	url = https://github.com/tabby-jun/jsonresume-theme-caffeine.git
